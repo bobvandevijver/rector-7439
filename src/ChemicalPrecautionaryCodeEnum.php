@@ -1,6 +1,6 @@
 <?php
 
-namespace Bobv\\Rector7439;
+namespace Bobv\Rector7439;
 
 /** Sourced from https://chem-space.com/public/regulatory/GHS%20H%20and%20P-codes.pdf */
 enum ChemicalPrecautionaryCodeEnum: string
