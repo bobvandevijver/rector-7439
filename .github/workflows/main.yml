@@ -30,4 +30,4 @@ jobs:
 
             -   uses: "ramsey/composer-install@v1"
 
-            -   run: vendor/bin/rector process --ansi
+            -   run: vendor/bin/rector process --ansi -vvv
